@@ -1,1 +1,0 @@
-DROP TABLE IF EXISTS human, sound_source, sound, fear, human_action, effect CASCADE
